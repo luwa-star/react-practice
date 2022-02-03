@@ -1,0 +1,10 @@
+.goal-item {
+    width: 100%;
+    background-color: rgb(131, 12, 72);
+    color: white;
+    font-weight: bold;
+    text-align: start;
+    display: flex;
+    margin: 0.2rem 1rem;
+    padding: 0.5rem;
+}
